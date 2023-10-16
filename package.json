@@ -1,0 +1,15 @@
+{
+  "name": "sayhellotobhar1gitr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sayhellotobhar1gitr": "^1.0.0"
+  },
+  "keywords": [],
+  "author": "Bharat Sharma",
+  "license": "ISC"
+}
